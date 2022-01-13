@@ -1,0 +1,22 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+
+	"build_systems":
+	[
+
+		{
+			"name":"Debug Build",
+			"working_dir": "$project_path",
+			"cmd": ["build.bat", "debug"],
+			"file_patterns": ["*.cpp", "*.h", "build.bat"],
+			"file_regex" : "^(\\S*)\\((\\d+),(\\d+)\\): (.*)"
+
+		},
+	
+	]
+}

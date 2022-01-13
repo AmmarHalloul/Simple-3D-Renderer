@@ -1,0 +1,653 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inc",
+				"include"
+			],
+			[
+				"enc",
+				"encrypted_text"
+			]
+		]
+	},
+	"build_system": "Debug Build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"intsal",
+				"Package Control: Install Package"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"isntall pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Install Package Control"
+			],
+			[
+				"tehme",
+				"UI: Select Theme"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/dev/GraphixLibGithub/src/renderer.cpp",
+		"/C/dev/GraphixLib/src/graphix.cpp",
+		"/C/dev/GraphixLibGithub/dep/include/glad/glad.h",
+		"/C/dev/GraphixLibGithub/src/common.h",
+		"/C/dev/GraphixLibGithub/src/main.cpp",
+		"/C/dev/GraphixLibGithub/src/graphix.cpp",
+		"/C/dev/GraphixLib/dep/src/lodepng.c",
+		"/C/dev/GraphixLib/dep/include/lodepng.h",
+		"/C/dev/GraphixLib/dep/include/cgltf.h",
+		"/C/dev/GraphixLib/dep/include/glad/glad.h",
+		"/C/dev/GraphixLib/log.txt",
+		"/C/dev/GraphixLib/todo.txt",
+		"/E/My Drive/code/NBGE/src/graphics.cpp",
+		"/C/dev/GraphixLib/dep/include/par_shapes.h",
+		"/C/dev/GameEngineDemo/dep/include/raylib.h",
+		"/C/dev/GraphixLib/build.bat",
+		"/C/dev/GraphixLib/dep/include/glm/ext/matrix_transform.inl",
+		"/C/dev/GraphixLib/src/common.h",
+		"/C/dev/GameEngineDemo/src/common.h",
+		"/C/dev/GameEngine/src/engine.cpp",
+		"/C/dev/GameEngine/src/common.h",
+		"/C/dev/GameEngine/bin/GameEngine_debug.ilk",
+		"/C/dev/GameEngine/build.bat",
+		"/C/dev/boilerplate/common.h",
+		"/C/dev/GameEngine/dep/include/lodepng.h",
+		"/C/dev/GameEngine/dep/src/miniaudio.c",
+		"/C/Users/amar/Desktop/dr_mp3.h",
+		"/C/dev/GameEngine/dep/include/miniaudio.h",
+		"/E/My Drive/code/NBGE/misc/NBGE.code-workspace",
+		"/C/dev/GameEngine/s.sublime-project",
+		"/C/dev/GameEngine/obj/main.obj",
+		"/C/dev/GameEngine/src/main.cpp",
+		"/C/dev/GameEngine/s.sublime-snippet",
+		"/C/dev/GameEngine/dep/include/glm/gtx/associated_min_max.hpp",
+		"/C/software/VisualStudio/VC/Tools/MSVC/14.30.30705/include/vcruntime.h",
+		"/C/dev/GameEngine/dep/src/lodepng.c",
+		"/C/dev/GameEngine/dep/include/GLFW/glfw3.h",
+		"/C/dev/temp1.cpp",
+		"/C/Users/amar/Downloads/code-ai.txt",
+		"/C/Users/amar/Desktop/todo.txt",
+		"/C/Users/amar/Desktop/txt files/good games.txt",
+		"/C/Users/amar/Desktop/txt files/upcoming games.txt",
+		"/C/Users/amar/Desktop/temp.txt",
+		"/C/Users/amar/Desktop/projects.txt",
+		"/C/Users/amar/Downloads/MurmurHash2.cpp",
+		"/E/My Drive/lists/good films.txt",
+		"/C/Users/amar/Desktop/txt files/2install.txt",
+		"/C/dev/GraphixLib/src/main.cpp",
+		"/C/dev/GraphixLib/debug_build.bat",
+		"/C/dev/GraphixLib/GraphixLib.sublime-project",
+		"/C/dev/GraphixLib/src/graphix.h",
+		"/C/Users/amar/Desktop/debloat/Win10-Initial-Setup-Script-3.10/Default.preset",
+		"/C/my files/Games/Grand Theft Auto Vice City/readMe.txt",
+		"/C/dev/SSTL/src/sstl/array.h",
+		"/C/dev/SSTL/src/sstl/common.h",
+		"/C/dev/SSTL/src/sstl/map.h",
+		"/C/dev/SSTL/src/main.cpp",
+		"/C/dev/SSTL/src/sstl/set.h",
+		"/C/dev/SSTL/SSTL.sublime-project",
+		"/C/dev/SSTL/src/test.py",
+		"/C/dev/SSTL/cpp_release_build.bat",
+		"/C/dev/SSTL/src/sstl/tuple_gen.py",
+		"/C/dev/SSTL/src/sstl/tuple_ex.h",
+		"/C/dev/SSTL/src/sstl/tuple_gen.h",
+		"/C/dev/SSTL/cpp_debug_build.bat",
+		"/C/dev/SSTL/sbs.py",
+		"/C/dev/SSTL/src/sstl/tuple.h",
+		"/C/dev/SSTL/src/sstl/filename",
+		"/C/dev/SSTL/src/sstl/new.txt",
+		"/C/dev/SSTL/SSTL.sublime-workspace",
+		"/C/dev/SSTL/src/test.cpp",
+		"/C/dev/SSTL/premake5.lua",
+		"/C/dev/SSTL/src/array.h",
+		"/C/dev/SSTL/src/tuple.h",
+		"/C/dev/SSTL/src/map.h",
+		"/C/dev/SSTL/src/queue.h",
+		"/C/dev/SSTL/src/set.h",
+		"/C/dev/SSTL/src/common.h",
+		"/C/dev/SSTL/src/sstring.h",
+		"/C/dev/SSTL/src/bitset.h",
+		"/C/dev/SSTL/misc/debug_build_then_run.bat",
+		"/D/films/2download.txt",
+		"/C/Users/amar1/Desktop/temp.txt",
+		"/C/Users/amar1/Desktop/tp/tp.sublime-project",
+		"/C/Users/amar1/Desktop/tp/tp2.cpp",
+		"/C/Users/amar1/Desktop/tp/buildrun.bat",
+		"/C/Users/amar1/Desktop/tp/tp1.cpp",
+		"/C/Users/amar1/Desktop/other tp1.cpp",
+		"/C/Users/amar1/Desktop/todo.txt",
+		"/C/Users/amar1/Desktop/bullshit folder/tp1.cpp",
+		"/C/dev/temp.cpp",
+		"/C/dev/New Text Document.txt",
+		"/C/dev/GameEngine/src/graphics.cpp",
+		"/C/dev/GameEngine/src/utils.cpp",
+		"/C/dev/GameEngine/src/utils.h",
+		"/C/dev/GameEngine/src/graphics.h",
+		"/C/software/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/include/string",
+		"/C/Windows Kits/10/Source/10.0.19041.0/ucrt/stdlib/qsort.cpp",
+		"/C/dev/GameEngine/misc/debug_build_then_run.bat"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 131.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Graphics3DTest",
+			"rotation_angle",
+			"WindowShouldClose",
+			"DebugLog",
+			"global",
+			"LODEPNG_COMPILE_DISK",
+			"LODEPNG_COMPILE_CPP",
+			"color, ",
+			"printf",
+			" (glm::vec3*) malloc(vertex_count * sizeof(glm::vec3));",
+			"indices",
+			"colored_mesh",
+			"ren->shaders.colored_mesh",
+			"FragmentShaderMode",
+			"FragmentShader",
+			"FragmentShaderMode",
+			"colored_mesh_frag_code",
+			"colored_mesh_vert_code",
+			"colored_mesh_frag_code",
+			"vec3_front",
+			"colored_mode",
+			"colored",
+			"model_matrix",
+			"sphere",
+			"par_shapes_create_cylinder",
+			"par_shapes_create_subdivided_sphere",
+			"par_shapes_create_cone",
+			"primitives",
+			"Primitives",
+			"textured",
+			"Mesh",
+			"PrimitiveMesh",
+			"struct",
+			"PrimitiveMesh",
+			"proj_view_matrix",
+			"color",
+			";",
+			"texture_sample",
+			"color",
+			"texture_coordinates",
+			"normals",
+			"gltf",
+			"free_buffer",
+			"\"scene.gltf\"",
+			"cgltf_load_buffers",
+			"CGLTF_IMPLEMENTATION",
+			"IMPLE",
+			"world_vertex_vec4",
+			"proj_view_matrix",
+			"world_vertex",
+			"normal",
+			"view_vertex",
+			"world_vertex",
+			"view_matrix",
+			"light_source",
+			"view_vertex",
+			"new_vertex",
+			"view_vertex",
+			"vertex_out",
+			"proj_view_matrix",
+			"projection_matrix",
+			"proj_view_matrix",
+			";\n",
+			"normal_out",
+			"t",
+			"assert(fa",
+			"assert(tr",
+			"ShowErrorBox",
+			"text",
+			"title",
+			"tag",
+			"Log",
+			"vsnprintf",
+			"LOG_FILE",
+			"log_file",
+			"LOG_FILE",
+			"fwrite",
+			"rotation",
+			"DrawVector",
+			"\n{",
+			"light_source",
+			"cube_transform",
+			"setunifom",
+			"world_vertex",
+			"pixel",
+			"gl_Position",
+			"light_source",
+			"normals",
+			"par_shapes_compute_normals",
+			"par_shapes_weld",
+			"welded",
+			"par_shapes_compute_normals",
+			"normals",
+			"-5.f",
+			"translate",
+			"glm::",
+			"cube",
+			"center",
+			"prims",
+			"proj_mat",
+			"struct render",
+			"render",
+			"projection_matrix",
+			"window_extent",
+			"bool8 ",
+			"if(!",
+			"error",
+			"SetUniform",
+			"0",
+			"255",
+			"true",
+			"false",
+			"nullptr",
+			"NULL",
+			"16777215",
+			"32",
+			"OpenglDebugCallback",
+			"Compile",
+			"400",
+			"DisplayErrorWindow",
+			"Renderer",
+			"shader_stages",
+			"id",
+			"GL_FRAGMENT_SHADER",
+			"colored_mesh_frag_code",
+			"par_shapes_create_cube",
+			"par_shape_mesh",
+			"vertices"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ShowErrorBox",
+			"uint",
+			"unsigned"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 49.6
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 171.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rene",
+				"src\\renderer.cpp"
+			],
+			[
+				"rened",
+				"src\\renderer.cpp"
+			],
+			[
+				"bui",
+				"build.bat"
+			],
+			[
+				"main",
+				"src\\main.cpp"
+			],
+			[
+				"rende",
+				"src\\renderer.h"
+			],
+			[
+				"com",
+				"src\\common.h"
+			],
+			[
+				"mai",
+				"src\\main.cpp"
+			],
+			[
+				"gra",
+				"src\\graphix.cpp"
+			],
+			[
+				"log",
+				"log.txt"
+			],
+			[
+				"ldoe",
+				"dep\\src\\lodepng.c"
+			],
+			[
+				"lode",
+				"dep\\include\\lodepng.h"
+			],
+			[
+				"todo",
+				"todo.txt"
+			],
+			[
+				"tdo",
+				"todo.txt"
+			],
+			[
+				"pa",
+				"dep\\include\\par_shapes.h"
+			],
+			[
+				"tod",
+				"todo.txt"
+			],
+			[
+				"g",
+				"src\\graphix.cpp"
+			],
+			[
+				"cg",
+				"dep\\include\\cgltf.h"
+			],
+			[
+				"cgl",
+				"dep\\include\\cgltf.h"
+			],
+			[
+				"lo",
+				"log.txt"
+			],
+			[
+				"t",
+				"todo.txt"
+			],
+			[
+				"par",
+				"dep\\include\\par_shapes.h"
+			],
+			[
+				"too",
+				"todo.txt"
+			],
+			[
+				"gr",
+				"src\\graphix.cpp"
+			],
+			[
+				"buil",
+				"build.bat"
+			],
+			[
+				"build",
+				"build.bat"
+			],
+			[
+				"eng",
+				"dep\\include\\glm\\gtx\\easing.hpp"
+			],
+			[
+				"bu",
+				"build.bat"
+			],
+			[
+				"sha",
+				"src\\shared.h"
+			],
+			[
+				"egi",
+				"src\\engine.cpp"
+			],
+			[
+				"eni",
+				"src\\engine.cpp"
+			],
+			[
+				"engi",
+				"src\\engine.cpp"
+			],
+			[
+				"co",
+				"src\\common.h"
+			],
+			[
+				"enigi",
+				"bin\\GameEngine_debug.ilk"
+			],
+			[
+				"egni",
+				"src\\engine.cpp"
+			],
+			[
+				"en",
+				"src\\engine.cpp"
+			],
+			[
+				"min",
+				"dep\\src\\miniaudio.c"
+			],
+			[
+				"enig",
+				"src\\engine.cpp"
+			],
+			[
+				"b",
+				"build.bat"
+			],
+			[
+				"buid",
+				"build.bat"
+			],
+			[
+				"ain",
+				"src\\main.cpp"
+			],
+			[
+				"mini",
+				"dep\\src\\miniaudio.c"
+			],
+			[
+				"sub",
+				"s.sublime-project"
+			],
+			[
+				"mian",
+				"obj\\main.obj"
+			],
+			[
+				"",
+				"build.bat"
+			],
+			[
+				"comm",
+				"src\\common.h"
+			],
+			[
+				"amin",
+				"dep\\include\\glm\\gtx\\associated_min_max.hpp"
+			],
+			[
+				"glfw3",
+				"dep\\include\\GLFW\\glfw3.h"
+			],
+			[
+				"deb",
+				"debug_build.bat"
+			],
+			[
+				"de",
+				"debug_build.bat"
+			],
+			[
+				"su",
+				"GraphixLib.sublime-project"
+			],
+			[
+				"subl",
+				"GraphixLib.sublime-project"
+			],
+			[
+				"ma",
+				"src\\sstl\\map.h"
+			],
+			[
+				"set",
+				"src\\sstl\\set.h"
+			],
+			[
+				"arr",
+				"src\\sstl\\array.h"
+			],
+			[
+				"tup",
+				"src\\sstl\\tuple.h"
+			],
+			[
+				"tupe",
+				"src\\sstl\\tuple.h"
+			],
+			[
+				"arra",
+				"src\\array.h"
+			],
+			[
+				"qu",
+				"src\\queue.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 311.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
